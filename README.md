@@ -1,1 +1,1 @@
-# Advanced Techniques Specialization
+# Advanced Techniques Specialization (Coursera Course)
